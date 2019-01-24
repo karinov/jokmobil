@@ -16,7 +16,7 @@ Indices and tables
 Mengenal Cara Modifikasi 
 ==================
 
-Modifikasi mobil merupakan salah satu hobi bagi sebagian orang. Hobi ini tentunya tidaklah murah, karena membutuhkan uang yang sangat banyak untuk mengganti beberapa bagian mobil ataupun menambah beberapa aksesoris agar mobil terlihat lebih keren dan menarik. Mobil sedan termasuk mobil yang paling gampang untuk dimodifikasi. Modifikasi mobil sedan dapat disesuaikan berdasarkan jenis sedan yang kita miliki.
+`Modifikasi mobil <https://karinov.github.io/jokmobil/>`_ merupakan salah satu hobi bagi sebagian orang. Hobi ini tentunya tidaklah murah, karena membutuhkan uang yang sangat banyak untuk mengganti beberapa bagian mobil ataupun menambah beberapa aksesoris agar mobil terlihat lebih keren dan menarik. Mobil sedan termasuk mobil yang paling gampang untuk dimodifikasi. Modifikasi mobil sedan dapat disesuaikan berdasarkan jenis sedan yang kita miliki.
 
 Banyak jenis mobil sedan yang bisa dimodifikasi, seperti mobil sedan baleno, mobil sedan ceper, mobil sedan corolla, mobil sedan honda civic, mobil sedan lancer, mobil sedan timor, dan jenis mobil sedan lainnya. Semuanya dapat kita modifikasi sesuai dengan kebutuhan dan selera kita. Ingin modifikasi mobil sedan? Simak ulasannya disini.
 
