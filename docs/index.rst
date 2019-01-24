@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
    
-Contoh Dokumen Github
+Tutorial Modifikasi Sedan dan Jok Mobil Jakarta
 ==================   
    
 Indices and tables
@@ -13,51 +13,41 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Situs Modifikasi Otomotif Mobil & Motor Indonesia
+Mengenal Cara Modifikasi 
 ==================
 
-Situs `otomotif dan modifikasi <https://www.blackxperience.com/>`_ dengan informasi terkini seputar dunia modifikasi mobil dan motor, perkembangan teknologi, lifestyle, dan inovasi – Blackauto, Blackmods, Blackcinema, Blackinnovation. Dunia modifikasi tidak mengenal batasan genre maupun umur, dan dunia ini memang sangat menarik karena menjadi ajang bekreasi untuk mengekspresikan diri. 
+Modifikasi mobil merupakan salah satu hobi bagi sebagian orang. Hobi ini tentunya tidaklah murah, karena membutuhkan uang yang sangat banyak untuk mengganti beberapa bagian mobil ataupun menambah beberapa aksesoris agar mobil terlihat lebih keren dan menarik. Mobil sedan termasuk mobil yang paling gampang untuk dimodifikasi. Modifikasi mobil sedan dapat disesuaikan berdasarkan jenis sedan yang kita miliki.
 
-Kata kunci link utama Blackxperience.com
+Banyak jenis mobil sedan yang bisa dimodifikasi, seperti mobil sedan baleno, mobil sedan ceper, mobil sedan corolla, mobil sedan honda civic, mobil sedan lancer, mobil sedan timor, dan jenis mobil sedan lainnya. Semuanya dapat kita modifikasi sesuai dengan kebutuhan dan selera kita. Ingin modifikasi mobil sedan? Simak ulasannya disini.
+
+1. Modifikasi Mesin
 ==================
 
-Modifikasi mobil, Modifikasi Motor, Yamaha, Honda, Toyota, Suzuki, Mitsubishi, foto modifikasi mobil, foto modifikasi motor, game modifikasi, modifikasi agya, xpander, modifikasi r15, modifikasi innova.
+Modifikasi mesin akan berpengaruh terhadap konsumsi bahan bakar. Kita harus mengaturnya, agar bahan bakar yang dikonsumsi selaras dengan performa mobil sedan yang kita miliki. Hal pertama kali yang harus diperhatikan adalah kondisi mesin dan kopling mobil.
+Pastikan kondisi mesin dan kopling mobilnya dalam keadaan baik. Untuk itu, lakukanlah general tune up, seperti mengganti busi, mengganti oil, menyetel celah klep, serta melakukan cleaning injektor. Setelah selesai, lakukan pengecekan apakah mesin mobil kita mengalami peningkatan atau tidak.
 
-Portal Modifikasi Otomotif Rujukan Indonesia
+Selain itu, kita juga harus mengupgrade sistem pengereman mobil kita agar selaras dengan mesin yang baru kita modifikasi. Budget yang dibutuhkan untuk modifikasi mesin ini bermacam-macam, tinggal kita sesuaikan saja dengan budget yang kita punya.
+
+2. Modifikasi Warna
 ==================
 
-Portal `modifikasi otomotif indonesia <https://www.blackxperience.com/blackauto/automods>`_ terbaru dan terlengkap dilengkapi tips dan trik dalam modifikasi mobil dan motor berbagai merek. Temukan asyiknya hobi modifikasi dan istilah-istilah baru hanya di Blackxperience.com
+Biasanya, modifikasi warna adalah langkah awal yang dilakukan jika ingin modifikasi mobil sedan. Pilihlah warna favorit yang akan membuat mobil sedan kita terlihat lebih mewah. Saat ingin memodifikasi warna mobil sedan, gunakanlah fitur airbrush yang cocok agar terlihat tidak terlalu sederhana.
+Dengan memodifikasi warna, mobil yang lama akan tampak seperti baru. Jika kita  tidak ingin mengganti warna, kita bisa menempelkan 
+stiker sebagai bahan alternatifnya. Stiker juga membuat mobil kita menjadi lebih berwarna dan hidup.
 
-Tips Modifikasi bagi Pemula
+3. Modifikasi Eksterior
 ==================
 
-`tips modifikasi & otomotif <https://www.blackxperience.com/blackauto/autotips>`_ - Sudah bosan dengan tampilan mobil anda yang begitu begitu saja? Bukan hanya pemiliknya saja yang harus tampil modis, namun mobil yang menjadi tunggangan sehari-hari pun harus tampil semenawan mungkin. Cara modifikasi bagi pemula memang berbeda dan butuh skill tersendiri, apalagi jika baru pertama kali.
+Bagian dari eksterior banyak macam-macamnya seperti bumper, LED, velg, kaca, dan bagian eksterior lainnya. Proses modifikasi pada bagian ini harus benar-benar teliti dan sudah terkonsep, karena bagian ini langsung terlihat oleh orang. Kita bisa memodifikasi bagian velg menjadi lebih modern dengan ukuran sekitar 17-18 inchi.
 
-Banyak faktor yang membuat pemula enggan untuk memodifikasi mobilnya, salah satunya takut jika hasilnya tidak sesuai dengan keinginan. Nah, berikut cara modifikasi bagi pemula yang bisa dilakukan.
+Untuk lampu LED, kita bisa mengganti warna dan merubah jenis lampunya. Kaca juga memiliki peranan penting untuk meredam intensitas cahaya yang masuk ke kabin. Jangan gunakan kaca yang terlalu gelap, karena akan mengganggu kita dalam berkendara.
 
-1. Tentukan Tema
+4. Modifikasi Interior
 ==================
 
-Sebelum memulai melakukan modifikasi, terlebih dahulu pilihlah tema yang sesuai dengan keinginan. Hal ini penting dilakukan agar tema yang dihasilkan tidak bertabrakan satu dengan lainnya. Selain itu untuk mengetahui estimasi biaya yang dikeluarkan nantinya.
+Modifikasi mobil sedan tidak  akan lengkap rasanya jika belum memodifikasi interiornya. Ada tiga aspek utama yang harus diperhatikan dalam modifikasi interior, yaitu keindahan, kenyamanan, dan fungsinya. Kita bisa mengganti setir, dashboard, audio video, dan jok mobil menjadi lebih modern lagi. Untuk bagian `jok mobil<https://karinov.co.id/memilih-jok-mobil/>`_ , kita wajib memberikan pelapis kulit agar lebih berkelas dan mudah untuk dibersihkan saat terkena kotoran. Usahakan warna jok dengan warna body mobil kita sesuai (selaras).
+Itulah beberapa hal yang dapat kita lakukan dan perlu kita coba dalam modifikasi mobil sedan. Jika uang yang kita punya sangat terbatas, maka lakukanlah modifikasi hanya pada beberapa bagian saja, jangan semuanya. Yang terpenting mobil kita terlihat menarik dan pastinya terasa lebih nyaman saat digunakan.
 
-2. Perkirakan Biaya Dan Bengkel Yang Dituju
-==================
+Sekedar informasi tambahan, mobil sedan ini bentuknya hampir mirip dengan mobil sport. Kita bisa modifikasi mobil sedan yang kita punya menjadi mobil sport. Tentunya hal ini sangat menguntungkan bagi kita. Namun, biaya yang dibutuhkan juga tidak sedikit jika ingin memodifikasinya menjadi mobil sport.
 
-Setelah menentukan tema, langkah selanjutnya cara modifikasi bagi pemula yaitu buatlah perkiraan biayanya. Lakukan riset kecil kecilan untuk menentukan apa saja yang akan di ganti, dan berapa uang yang harus dikeluarkan. Jika belum mahir modif sendiri, tentukan pula bengkel mana yang akan dituju untuk membantu memodif mobil. Konsultasikan tentang tema yang sudah dipilih.
-
-3. Siapkan daftar Komponen Yang Diperlukan
-==================
-
-Car modifikasi bagi pemula selanjutnya adalah siapkan apa saja daftar komponen yang akan dipakai. List semuanya, apabila tidak tersedia di bengkel tujuan bisa memesan ke toko lainnya. Hal ini wajib dilakukan agar proses modifikasi sesuai dengan yang diharapkan.
-
-Kata kunci utama
-==================
-
-- `review mobil & motor <https://www.blackxperience.com/blackauto/autoreviews>`_, Modifikasi mobil, Modifikasi Motor, Yamaha, Honda, Toyota, Suzuki, Mitsubishi, foto modifikasi mobil, foto modifikasi motor, game modifikasi, modifikasi agya, xpander, modifikasi r15, modifikasi innova, foto modifikasi keren.
-
-Tech News Online
-==================
-`Portal modifikasi otomotif <https://www.blackxperience.com/blackauto/automods>`_ dan teknologi terkini di Indonesia. Fokus mengulas seputar dunia startup, perkembangan teknologi informasi, serta dunia bisnis online.
-
-- `kumpulan budaya indonesia <https://budaya.readthedocs.io/en/latest/>`_
 - `alexa on rftd <https://alexa.readthedocs.io/en/latest/>`_
