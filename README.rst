@@ -4,6 +4,9 @@ Template
 $project will solve your problem of where to start with documentation,
 by providing a basic explanation of how to do it easily.
 
+- `Otomotif ID - Mengenal SEVA Lebih Dekat <https://otomotifid.readthedocs.io/en/latest/>`_
+- `Review 7 Mobil Bekas Mewah di Fedora <https://www.fedora.or.id/2020/05/mobil-bekas-mewah-seva.html>`_
+
 Look how easy it is to use:
 
     import project
